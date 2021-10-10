@@ -12,9 +12,11 @@ export const getChapter = (req, res) => {
 
     const chapter = chaptersData.find(data => data.chapter_id === id)
 
-    const prevChapter = chaptersData.find(data => data.chapter_index === chapter.chapter_index - 1)?.chapter_id || null
-    const nextChapter = chaptersData.find(data => data.chapter_index === chapter.chapter_index + 1)?.chapter_id || null
-
-    if (chapter) res.status(200).json({ response: 'success', ...chapter, prev_chapter: prevChapter, next_chapter: nextChapter })
+    if (chapter) {
+        const prevChapter = chaptersData.find(data => data.chapter_index === chapter.chapter_index - 1)?.chapter_id || null
+        const nextChapter = chaptersData.find(data => data.chapter_index === chapter.chapter_index + 1)?.chapter_id || null
+        
+        res.status(200).json({ response: 'success', ...chapter, prev_chapter: prevChapter, next_chapter: nextChapter })
+    }
     else res.status(404).json({ response: 'error', error: 'invalid id' })
 }
