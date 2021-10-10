@@ -1,0 +1,2439 @@
+[
+    {
+        "_id": "610236ddbd9691186c109d55",
+        "chapter_index": 1,
+        "chapter_id": "al-fatihah",
+        "arabic_name": "الفاتحة",
+        "latin_name": "Al Fātiḥah",
+        "literal": "Pembukaan",
+        "aliases": [
+            "Fatihatul Kitab",
+            "Ummul Qur'an",
+            "Ummul Kitab",
+            "As Sab'ul Masani",
+            "Al Kanz",
+            "Al Wafiyah",
+            "Al Kafiyah",
+            "Al Asas",
+            "Asy Syafiyah",
+            "Al Hamd",
+            "As Shalah",
+            "Al Ruqyah",
+            "Asy Syukru",
+            "Ad Du'au",
+            "Asy Syifa",
+            "Al Waqiyah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": false,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 7
+    },
+    {
+        "_id": "61023883bd9691186c109d63",
+        "chapter_index": 2,
+        "chapter_id": "al-baqarah",
+        "arabic_name": "البقرة",
+        "latin_name": "Al Baqarah",
+        "literal": "Sapi",
+        "aliases": [
+            "Az Zahrawan"
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            "Mengusir setan dari rumah",
+            "Dua penerang di Hari Kiamat"
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 40,
+        "total_verses": 286
+    },
+    {
+        "_id": "61023a56bd9691186c109d66",
+        "chapter_index": 3,
+        "chapter_id": "ali-imran",
+        "arabic_name": "آل عمران",
+        "latin_name": "Āli ‘Imrān",
+        "literal": "Keluarga 'Imran",
+        "aliases": [
+            "Az Zahrawan"
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            "Dua penerang di Hari Kiamat"
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 20,
+        "total_verses": 200
+    },
+    {
+        "_id": "61023b16bd9691186c109d69",
+        "chapter_index": 4,
+        "chapter_id": "an-nisa",
+        "arabic_name": "النساء",
+        "latin_name": "An Nisā'",
+        "literal": "Wanita",
+        "aliases": [
+            "An Nisa Al Kubra"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 24,
+        "total_verses": 176
+    },
+    {
+        "_id": "61023bf7bd9691186c109d6e",
+        "chapter_index": 5,
+        "chapter_id": "al-maidah",
+        "arabic_name": "المائدة",
+        "latin_name": "Al Mā'idah",
+        "literal": "Hidangan",
+        "aliases": [
+            "Al 'Uqud",
+            "Al Munqiz"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 16,
+        "total_verses": 120
+    },
+    {
+        "_id": "61023c4abd9691186c109d71",
+        "chapter_index": 6,
+        "chapter_id": "al-anam",
+        "arabic_name": "الأنعام",
+        "latin_name": "Al An‘ām",
+        "literal": "Binatang Ternak",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 20,
+        "total_verses": 165
+    },
+    {
+        "_id": "61023ce5bd9691186c109d74",
+        "chapter_index": 7,
+        "chapter_id": "al-araf",
+        "arabic_name": "الأعراف",
+        "latin_name": "Al A’rāf",
+        "literal": "Tempat Tertinggi",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "المص"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 24,
+        "total_verses": 206
+    },
+    {
+        "_id": "61023d7abd9691186c109d89",
+        "chapter_index": 8,
+        "chapter_id": "al-anfal",
+        "arabic_name": "الأنفال",
+        "latin_name": "Al Anfāl",
+        "literal": "Jarahan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 10,
+        "total_verses": 75
+    },
+    {
+        "_id": "61023e1abd9691186c109d8c",
+        "chapter_index": 9,
+        "chapter_id": "at-taubah",
+        "arabic_name": "التوبة",
+        "latin_name": "At Taubah",
+        "literal": "Pengampunan",
+        "aliases": [
+            "Bara'ah",
+            "Al Mukshziyah",
+            "Al Fadikhah",
+            "Al Muqasyqisyah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": false,
+        "classification": "Madaniyah",
+        "total_rukus": 16,
+        "total_verses": 129
+    },
+    {
+        "_id": "61023e82bd9691186c109d8f",
+        "chapter_index": 10,
+        "chapter_id": "yunus",
+        "arabic_name": "يونس",
+        "latin_name": "Yūnus",
+        "literal": "Yunus",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 11,
+        "total_verses": 109
+    },
+    {
+        "_id": "61023eb2bd9691186c109d92",
+        "chapter_index": 11,
+        "chapter_id": "hud",
+        "arabic_name": "هود",
+        "latin_name": "Hūd",
+        "literal": "Hud",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 10,
+        "total_verses": 123
+    },
+    {
+        "_id": "61023ef4bd9691186c109d95",
+        "chapter_index": 12,
+        "chapter_id": "yusuf",
+        "arabic_name": "يوسف",
+        "latin_name": "Yūsuf",
+        "literal": "Yusuf",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 12,
+        "total_verses": 111
+    },
+    {
+        "_id": "61023f88bd9691186c109d98",
+        "chapter_index": 13,
+        "chapter_id": "ar-rad",
+        "arabic_name": "الرعد",
+        "latin_name": "Ar Ra’d",
+        "literal": "Guruh",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "المر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 6,
+        "total_verses": 43
+    },
+    {
+        "_id": "61023fc3bd9691186c109d9b",
+        "chapter_index": 14,
+        "chapter_id": "ibrahim",
+        "arabic_name": "إبراهيم",
+        "latin_name": "Ibrāhīm",
+        "literal": "Ibrahim",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 7,
+        "total_verses": 52
+    },
+    {
+        "_id": "610240bdbd9691186c109da0",
+        "chapter_index": 15,
+        "chapter_id": "al-hijr",
+        "arabic_name": "الحجر",
+        "latin_name": "Al Ḥijr",
+        "literal": "Al-Hijr",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الر"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 99
+    },
+    {
+        "_id": "6102412dbd9691186c109da3",
+        "chapter_index": 16,
+        "chapter_id": "an-nahl",
+        "arabic_name": "النحل",
+        "latin_name": "An Naḥl",
+        "literal": "Lebah",
+        "aliases": [
+            "An Ni'am"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 16,
+        "total_verses": 128
+    },
+    {
+        "_id": "610241ddbd9691186c109daf",
+        "chapter_index": 17,
+        "chapter_id": "al-isra",
+        "arabic_name": "الإسراء",
+        "latin_name": "Al Isrā'",
+        "literal": "Perjalanan Malam",
+        "aliases": [
+            "Bani Isra'il"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 12,
+        "total_verses": 111
+    },
+    {
+        "_id": "610242d4bd9691186c109db2",
+        "chapter_index": 18,
+        "chapter_id": "al-kahf",
+        "arabic_name": "الكهف",
+        "latin_name": "Al Kahf",
+        "literal": "Gua",
+        "aliases": [
+            "Ashabul Kahf"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            "Barang siapa di antara kalian yang bertemu dengan Dajjal, maka hendaknya dia membaca ayat-ayat pembuka Surah Al Kahfi",
+            "Barang siapa yang menghafal sepuluh ayat pertama dari Surah Al Kahfi, maka dia akan dilindungi dari Dajjal",
+            "Barang siapa yang membaca Surah Al Kahfi di malam Jumat, maka Allah akan memberikan dia cahaya antara dia sampai ke Ka'bah",
+            "Barang siapa yang membaca Surah Al Kahfi di malam Jumat, maka Allah akan memberikan dia cahaya (Dijauhkan dari kemunkaran dan diberi cahaya petunjuk kepada kebaikkan) antara Jumat tersebut sampai Jumat berikutnya"
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 12,
+        "total_verses": 110
+    },
+    {
+        "_id": "6103efa7bb02a921cc00368d",
+        "chapter_index": 19,
+        "chapter_id": "maryam",
+        "arabic_name": "مريم",
+        "latin_name": "Maryam",
+        "literal": "Maryam",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "كهيعص"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 98
+    },
+    {
+        "_id": "6103f0c6bb02a921cc003698",
+        "chapter_index": 20,
+        "chapter_id": "taha",
+        "arabic_name": "طه",
+        "latin_name": "Ṭā Hā",
+        "literal": "Tha Ha",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "طه"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 8,
+        "total_verses": 135
+    },
+    {
+        "_id": "6103f351bb02a921cc00369c",
+        "chapter_index": 21,
+        "chapter_id": "al-anbiya",
+        "arabic_name": "الأنبياء",
+        "latin_name": "Al Anbiyā'",
+        "literal": "Para Nabi",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 7,
+        "total_verses": 112
+    },
+    {
+        "_id": "6103f3a1bb02a921cc00369f",
+        "chapter_index": 22,
+        "chapter_id": "al-hajj",
+        "arabic_name": "الحج",
+        "latin_name": "Al Ḥajj",
+        "literal": "Haji",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 10,
+        "total_verses": 78
+    },
+    {
+        "_id": "6103f3f2bb02a921cc0036a2",
+        "chapter_index": 23,
+        "chapter_id": "al-muminun",
+        "arabic_name": "المؤمنون",
+        "latin_name": "Al Mu'minūn",
+        "literal": "Orang-Orang Yang Beriman",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 118
+    },
+    {
+        "_id": "6103f452bb02a921cc0036ab",
+        "chapter_index": 24,
+        "chapter_id": "an-nur",
+        "arabic_name": "النور",
+        "latin_name": "An Nūr",
+        "literal": "Cahaya",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 9,
+        "total_verses": 64
+    },
+    {
+        "_id": "6103f4b8bb02a921cc0036ae",
+        "chapter_index": 25,
+        "chapter_id": "al-furqan",
+        "arabic_name": "الفرقان",
+        "latin_name": "Al Furqān",
+        "literal": "Pembeda",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 77
+    },
+    {
+        "_id": "6103f510bb02a921cc0036b1",
+        "chapter_index": 26,
+        "chapter_id": "ash-shuara",
+        "arabic_name": "الشعراء",
+        "latin_name": "Ash Shu‘arā'",
+        "literal": "Para Penyair",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "طسم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 11,
+        "total_verses": 227
+    },
+    {
+        "_id": "6103f5a1bb02a921cc0036c1",
+        "chapter_index": 27,
+        "chapter_id": "an-naml",
+        "arabic_name": "النمل",
+        "latin_name": "An Naml",
+        "literal": "Semut",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "طس"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 7,
+        "total_verses": 93
+    },
+    {
+        "_id": "6103f62dbb02a921cc0036c7",
+        "chapter_index": 28,
+        "chapter_id": "al-qasas",
+        "arabic_name": "القصص",
+        "latin_name": "Al Qaṣaṣ",
+        "literal": "Cerita-Cerita",
+        "aliases": [
+            "Musa"
+        ],
+        "mysterious_letters": [
+            "طسم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 9,
+        "total_verses": 88
+    },
+    {
+        "_id": "6103f66fbb02a921cc0036cf",
+        "chapter_index": 29,
+        "chapter_id": "al-ankabut",
+        "arabic_name": "العنكبوت",
+        "latin_name": "Al ‘Ankabūt",
+        "literal": "Laba-Laba",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 7,
+        "total_verses": 69
+    },
+    {
+        "_id": "6103f697bb02a921cc0036d2",
+        "chapter_index": 30,
+        "chapter_id": "ar-rum",
+        "arabic_name": "الروم",
+        "latin_name": "Ar Rūm",
+        "literal": "Bangsa Romawi",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 60
+    },
+    {
+        "_id": "6103f6bdbb02a921cc0036d5",
+        "chapter_index": 31,
+        "chapter_id": "luqman",
+        "arabic_name": "لقمان",
+        "latin_name": "Luqmān",
+        "literal": "Luqman",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 4,
+        "total_verses": 34
+    },
+    {
+        "_id": "6103f6edbb02a921cc0036d8",
+        "chapter_index": 32,
+        "chapter_id": "as-sajdah",
+        "arabic_name": "السجدة",
+        "latin_name": "As Sajdah",
+        "literal": "Sujud",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "الم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 30
+    },
+    {
+        "_id": "6103f743bb02a921cc0036db",
+        "chapter_index": 33,
+        "chapter_id": "al-ahzab",
+        "arabic_name": "الأحزاب",
+        "latin_name": "Al Aḥzāb",
+        "literal": "Golongan Yang Bersekutu",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 9,
+        "total_verses": 73
+    },
+    {
+        "_id": "6103f7d8bb02a921cc0036df",
+        "chapter_index": 34,
+        "chapter_id": "saba",
+        "arabic_name": "سبأ",
+        "latin_name": "Saba'",
+        "literal": "Kaum Saba'",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 54
+    },
+    {
+        "_id": "6103f835bb02a921cc0036e5",
+        "chapter_index": 35,
+        "chapter_id": "fatir",
+        "arabic_name": "فاطر",
+        "latin_name": "Fāṭir",
+        "literal": "Pencipta",
+        "aliases": [
+            "Al Mala'ikah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 5,
+        "total_verses": 45
+    },
+    {
+        "_id": "6103f880bb02a921cc0036ea",
+        "chapter_index": 36,
+        "chapter_id": "yasin",
+        "arabic_name": "يس",
+        "latin_name": "Yā Sīn",
+        "literal": "Ya Sin",
+        "aliases": [
+            "Man'amah",
+            "Rafi'ah Khafizah"
+        ],
+        "mysterious_letters": [
+            "يس"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 5,
+        "total_verses": 83
+    },
+    {
+        "_id": "6103f8bfbb02a921cc0036ef",
+        "chapter_index": 37,
+        "chapter_id": "as-saffat",
+        "arabic_name": "الصافات",
+        "latin_name": "Aṣ Ṣāffāt",
+        "literal": "Yang Bersaf-Saf",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 5,
+        "total_verses": 182
+    },
+    {
+        "_id": "6103f902bb02a921cc0036f2",
+        "chapter_index": 38,
+        "chapter_id": "sad",
+        "arabic_name": "ص",
+        "latin_name": "Ṣād",
+        "literal": "Shad",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "ص"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 5,
+        "total_verses": 88
+    },
+    {
+        "_id": "6103f931bb02a921cc0036f5",
+        "chapter_index": 39,
+        "chapter_id": "az-zumar",
+        "arabic_name": "الزمر",
+        "latin_name": "Az Zumar",
+        "literal": "Rombongan-Rombongan",
+        "aliases": [
+            "Al Guraf"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 8,
+        "total_verses": 75
+    },
+    {
+        "_id": "6103f9c3bb02a921cc0036f8",
+        "chapter_index": 40,
+        "chapter_id": "ghafir",
+        "arabic_name": "غافر",
+        "latin_name": "Ghāfir",
+        "literal": "Pengampun",
+        "aliases": [
+            "Al Mu'min",
+            "At-Tawl",
+            "Ha Mim Al Mu'min"
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 9,
+        "total_verses": 85
+    },
+    {
+        "_id": "6103fa06bb02a921cc0036fb",
+        "chapter_index": 41,
+        "chapter_id": "fussilat",
+        "arabic_name": "فصلت",
+        "latin_name": "Fuṣṣilat",
+        "literal": "Yang Dijelaskan",
+        "aliases": [
+            "Ha Mim as-Sadjah"
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 6,
+        "total_verses": 54
+    },
+    {
+        "_id": "6103fa37bb02a921cc0036fe",
+        "chapter_index": 42,
+        "chapter_id": "ash-shura",
+        "arabic_name": "الشورى",
+        "latin_name": "Ash Shūrā",
+        "literal": "Musyawarah",
+        "aliases": [
+            "Ha Mim 'Ain Sin Qaf"
+        ],
+        "mysterious_letters": [
+            "حم",
+            "عسق"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 5,
+        "total_verses": 53
+    },
+    {
+        "_id": "6103fa6dbb02a921cc003701",
+        "chapter_index": 43,
+        "chapter_id": "az-zukhruf",
+        "arabic_name": "الزخرف",
+        "latin_name": "Az Zukhruf",
+        "literal": "Perhiasan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 7,
+        "total_verses": 89
+    },
+    {
+        "_id": "6103fa91bb02a921cc003704",
+        "chapter_index": 44,
+        "chapter_id": "ad-dukhan",
+        "arabic_name": "الدخان",
+        "latin_name": "Ad Dukhān",
+        "literal": "Kabut",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 59
+    },
+    {
+        "_id": "6103fac1bb02a921cc003707",
+        "chapter_index": 45,
+        "chapter_id": "al-jasiyah",
+        "arabic_name": "الجاثية",
+        "latin_name": "Al Jāṡiyah",
+        "literal": "Yang Berlutut",
+        "aliases": [
+            "Asy Syari'ah"
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 4,
+        "total_verses": 37
+    },
+    {
+        "_id": "6103fae5bb02a921cc00370a",
+        "chapter_index": 46,
+        "chapter_id": "al-ahqaf",
+        "arabic_name": "الأحقاف",
+        "latin_name": "Al Aḥqāf",
+        "literal": "Bukit-Bukit Pasir",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "حم"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 4,
+        "total_verses": 35
+    },
+    {
+        "_id": "6103fb2cbb02a921cc00370d",
+        "chapter_index": 47,
+        "chapter_id": "muhammad",
+        "arabic_name": "محمد",
+        "latin_name": "Muḥammad",
+        "literal": "Muhammad",
+        "aliases": [
+            "Al Qital"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 4,
+        "total_verses": 38
+    },
+    {
+        "_id": "6103fb5ebb02a921cc003710",
+        "chapter_index": 48,
+        "chapter_id": "al-fath",
+        "arabic_name": "الفتح",
+        "latin_name": "Al Fatḥ",
+        "literal": "Kemenangan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 4,
+        "total_verses": 29
+    },
+    {
+        "_id": "6103fb7cbb02a921cc003713",
+        "chapter_index": 49,
+        "chapter_id": "al-hujurat",
+        "arabic_name": "الحجرات",
+        "latin_name": "Al Ḥujurāt",
+        "literal": "Kamar-Kamar",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 18
+    },
+    {
+        "_id": "6103fba4bb02a921cc003716",
+        "chapter_index": 50,
+        "chapter_id": "qaf",
+        "arabic_name": "ق",
+        "latin_name": "Qāf",
+        "literal": "Qaf",
+        "aliases": [
+            "Al Basiqat"
+        ],
+        "mysterious_letters": [
+            "ق"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 45
+    },
+    {
+        "_id": "6103fbdfbb02a921cc003719",
+        "chapter_index": 51,
+        "chapter_id": "az-zariyat",
+        "arabic_name": "الذاريات",
+        "latin_name": "Aż Żāriyāt",
+        "literal": "Angin Yang Menerbangkan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 60
+    },
+    {
+        "_id": "6103fc05bb02a921cc00371c",
+        "chapter_index": 52,
+        "chapter_id": "at-tur",
+        "arabic_name": "الطور",
+        "latin_name": "Aṭ Ṭūr",
+        "literal": "Bukit",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 49
+    },
+    {
+        "_id": "6103fc20bb02a921cc00371f",
+        "chapter_index": 53,
+        "chapter_id": "an-najm",
+        "arabic_name": "النجم",
+        "latin_name": "An Najm",
+        "literal": "Bintang",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 62
+    },
+    {
+        "_id": "6103fc48bb02a921cc003722",
+        "chapter_index": 54,
+        "chapter_id": "al-qamar",
+        "arabic_name": "القمر",
+        "latin_name": "Al Qamar",
+        "literal": "Bulan",
+        "aliases": [
+            "Iqtarabat"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 55
+    },
+    {
+        "_id": "6103fc66bb02a921cc003725",
+        "chapter_index": 55,
+        "chapter_id": "ar-rahman",
+        "arabic_name": "الرحمن",
+        "latin_name": "Ar Raḥmān",
+        "literal": "Yang Maha Pemurah",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 3,
+        "total_verses": 78
+    },
+    {
+        "_id": "6103fc8ebb02a921cc003728",
+        "chapter_index": 56,
+        "chapter_id": "al-waqiah",
+        "arabic_name": "الواقعة",
+        "latin_name": "Al Wāqi‘ah",
+        "literal": "Hari Kiamat",
+        "aliases": [
+            "Idza waqa'at"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 3,
+        "total_verses": 96
+    },
+    {
+        "_id": "6103fcb6bb02a921cc00372b",
+        "chapter_index": 57,
+        "chapter_id": "al-hadid",
+        "arabic_name": "الحديد",
+        "latin_name": "Al Ḥadīd",
+        "literal": "Besi",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 4,
+        "total_verses": 29
+    },
+    {
+        "_id": "6103fd3dbb02a921cc00372e",
+        "chapter_index": 58,
+        "chapter_id": "al-mujadilah",
+        "arabic_name": "المجادلة",
+        "latin_name": "Al Mujādilah",
+        "literal": "Wanita Yang Mengajukan Gugatan",
+        "aliases": [
+            "Al Mujadalah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 3,
+        "total_verses": 22
+    },
+    {
+        "_id": "6103fdc3bb02a921cc003731",
+        "chapter_index": 59,
+        "chapter_id": "al-hashr",
+        "arabic_name": "الحشر",
+        "latin_name": "Al Ḥashr",
+        "literal": "Pengusiran",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 3,
+        "total_verses": 24
+    },
+    {
+        "_id": "6103fdfabb02a921cc003734",
+        "chapter_index": 60,
+        "chapter_id": "al-mumtahanah",
+        "arabic_name": "الممتحنة",
+        "latin_name": "Al Mumtaḥanah",
+        "literal": "Perempuan Yang Diuji",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 13
+    },
+    {
+        "_id": "6103fe12bb02a921cc003737",
+        "chapter_index": 61,
+        "chapter_id": "as-saff",
+        "arabic_name": "الصف",
+        "latin_name": "Aṣ Ṣaff",
+        "literal": "Barisan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 14
+    },
+    {
+        "_id": "6103fe53bb02a921cc00373a",
+        "chapter_index": 62,
+        "chapter_id": "al-jumuah",
+        "arabic_name": "الجمعة",
+        "latin_name": "Al Jumu‘ah",
+        "literal": "Hari Jumat",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 11
+    },
+    {
+        "_id": "6103fe69bb02a921cc00373d",
+        "chapter_index": 63,
+        "chapter_id": "al-munafiqun",
+        "arabic_name": "المنافقون",
+        "latin_name": "Al Munāfiqūn",
+        "literal": "Orang-Orang Munafik",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 11
+    },
+    {
+        "_id": "6103fe8dbb02a921cc003740",
+        "chapter_index": 64,
+        "chapter_id": "at-taghabun",
+        "arabic_name": "التغابن",
+        "latin_name": "At Taghābun",
+        "literal": "Hari Ditampakkan Segala Kesalahan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 18
+    },
+    {
+        "_id": "6103fec4bb02a921cc003743",
+        "chapter_index": 65,
+        "chapter_id": "at-talaq",
+        "arabic_name": "الطلاق",
+        "latin_name": "Aṭ Ṭalāq",
+        "literal": "Talak",
+        "aliases": [
+            "An Nisa'us Sugra"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 12
+    },
+    {
+        "_id": "6103ff13bb02a921cc003747",
+        "chapter_index": 66,
+        "chapter_id": "at-tahrim",
+        "arabic_name": "التحريم",
+        "latin_name": "At Taḥrīm",
+        "literal": "Mengharamkan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 12
+    },
+    {
+        "_id": "6104882efb7d052900dbd58e",
+        "chapter_index": 67,
+        "chapter_id": "al-mulk",
+        "arabic_name": "الملك",
+        "latin_name": "Al Mulk",
+        "literal": "Kerajaan",
+        "aliases": [
+            "Tabarak"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            "Surah ini akan memberi syafa'at kepada seseorang sampai akhirnya Surah ini mengeluarkan orang tersebut dari Neraka Jahannam pada Hari Kiamat kelak dan Surah ini memasukkan orang tersebut ke dalam Surga",
+            "Surah ini adalah pencegah dari adzab kubur",
+            "Surah ini memberi syafa'at kepada pembacanya hingga diberi ampunan untuknya"
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 30
+    },
+    {
+        "_id": "61048858fb7d052900dbd591",
+        "chapter_index": 68,
+        "chapter_id": "al-qalam",
+        "arabic_name": "القلم",
+        "latin_name": "Al Qalam",
+        "literal": "Pena",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            "ن"
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 52
+    },
+    {
+        "_id": "61048889fb7d052900dbd594",
+        "chapter_index": 69,
+        "chapter_id": "al-haqqah",
+        "arabic_name": "الحاقة",
+        "latin_name": "Al Ḥāqqah",
+        "literal": "Hari Kiamat",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 52
+    },
+    {
+        "_id": "61048912fb7d052900dbd597",
+        "chapter_index": 70,
+        "chapter_id": "al-maarij",
+        "arabic_name": "المعارج",
+        "latin_name": "Al Ma‘ārij",
+        "literal": "Tempat-Tempat Naik",
+        "aliases": [
+            "Sa'ala sailun"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 44
+    },
+    {
+        "_id": "61048941fb7d052900dbd59a",
+        "chapter_index": 71,
+        "chapter_id": "nuh",
+        "arabic_name": "نوح",
+        "latin_name": "Nūḥ",
+        "literal": "Nuh",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 28
+    },
+    {
+        "_id": "61048967fb7d052900dbd59d",
+        "chapter_index": 72,
+        "chapter_id": "al-jinn",
+        "arabic_name": "الجن",
+        "latin_name": "Al Jinn",
+        "literal": "Jin",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 28
+    },
+    {
+        "_id": "6104898ffb7d052900dbd5a3",
+        "chapter_index": 73,
+        "chapter_id": "al-muzzammil",
+        "arabic_name": "المزمل",
+        "latin_name": "Al Muzzammil",
+        "literal": "Orang Yang Berselimut",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 20
+    },
+    {
+        "_id": "610489b0fb7d052900dbd5a6",
+        "chapter_index": 74,
+        "chapter_id": "al-muddassir",
+        "arabic_name": "المدثر",
+        "latin_name": "Al Muddaṡṡir",
+        "literal": "Orang Yang Berkemul",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 56
+    },
+    {
+        "_id": "610489d1fb7d052900dbd5a9",
+        "chapter_index": 75,
+        "chapter_id": "al-qiyamah",
+        "arabic_name": "القيامة",
+        "latin_name": "Al Qiyāmah",
+        "literal": "Hari Kiamat",
+        "aliases": [
+            "La uqsimu bi yaumil qiyamah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 40
+    },
+    {
+        "_id": "61048a05fb7d052900dbd5ac",
+        "chapter_index": 76,
+        "chapter_id": "al-insan",
+        "arabic_name": "الإنسان",
+        "latin_name": "Al Insān",
+        "literal": "Manusia",
+        "aliases": [
+            "Ad Dahr",
+            "Hal ata"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 2,
+        "total_verses": 31
+    },
+    {
+        "_id": "61048a78fb7d052900dbd5af",
+        "chapter_index": 77,
+        "chapter_id": "al-mursalat",
+        "arabic_name": "المرسلات",
+        "latin_name": "Al Mursalāt",
+        "literal": "Yang Diutus",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 50
+    },
+    {
+        "_id": "61048a9cfb7d052900dbd5b2",
+        "chapter_index": 78,
+        "chapter_id": "an-naba",
+        "arabic_name": "النبأ",
+        "latin_name": "An Naba'",
+        "literal": "Berita Besar",
+        "aliases": [
+            "'Amma Yatasa'alun"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 40
+    },
+    {
+        "_id": "61048afffb7d052900dbd5b7",
+        "chapter_index": 79,
+        "chapter_id": "an-naziat",
+        "arabic_name": "النازعات",
+        "latin_name": "An Nāzi‘āt",
+        "literal": "Yang Mencabut",
+        "aliases": [
+            "As Sahirah",
+            "At Tammah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 2,
+        "total_verses": 46
+    },
+    {
+        "_id": "61048b37fb7d052900dbd5ba",
+        "chapter_index": 80,
+        "chapter_id": "abasa",
+        "arabic_name": "عبس",
+        "latin_name": "‘Abasa",
+        "literal": "Ia Bermuka Masam",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 42
+    },
+    {
+        "_id": "61048b51fb7d052900dbd5bd",
+        "chapter_index": 81,
+        "chapter_id": "at-takwir",
+        "arabic_name": "التكوير",
+        "latin_name": "At Takwīr",
+        "literal": "Menggulung",
+        "aliases": [
+            "Idzasy syamsu kuwwirat"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 29
+    },
+    {
+        "_id": "61048b6dfb7d052900dbd5c0",
+        "chapter_index": 82,
+        "chapter_id": "al-infitar",
+        "arabic_name": "الانفطار",
+        "latin_name": "Al Infiṭār",
+        "literal": "Terbelah",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 19
+    },
+    {
+        "_id": "61048b88fb7d052900dbd5c3",
+        "chapter_index": 83,
+        "chapter_id": "al-mutaffifin",
+        "arabic_name": "المطففين",
+        "latin_name": "Al Muṭaffifīn",
+        "literal": "Kecurangan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 36
+    },
+    {
+        "_id": "61048baafb7d052900dbd5c6",
+        "chapter_index": 84,
+        "chapter_id": "al-inshiqaq",
+        "arabic_name": "الانشقاق",
+        "latin_name": "Al Inshiqāq",
+        "literal": "Terbelah",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 25
+    },
+    {
+        "_id": "61048bc2fb7d052900dbd5c9",
+        "chapter_index": 85,
+        "chapter_id": "al-buruj",
+        "arabic_name": "البروج",
+        "latin_name": "Al Burūj",
+        "literal": "Gugusan Bintang",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 22
+    },
+    {
+        "_id": "61048bd9fb7d052900dbd5cc",
+        "chapter_index": 86,
+        "chapter_id": "at-tariq",
+        "arabic_name": "الطارق",
+        "latin_name": "Aṭ Ṭāriq",
+        "literal": "Yang Datang di Malam Hari",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 17
+    },
+    {
+        "_id": "61048bf3fb7d052900dbd5cf",
+        "chapter_index": 87,
+        "chapter_id": "al-ala",
+        "arabic_name": "الأعلى",
+        "latin_name": "Al A’lā",
+        "literal": "Yang Paling Tinggi",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 19
+    },
+    {
+        "_id": "61048c0bfb7d052900dbd5d2",
+        "chapter_index": 88,
+        "chapter_id": "al-ghashiyah",
+        "arabic_name": "الغاشية",
+        "latin_name": "Al Ghāshiyah",
+        "literal": "Hari Pembalasan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 26
+    },
+    {
+        "_id": "61048c21fb7d052900dbd5d5",
+        "chapter_index": 89,
+        "chapter_id": "al-fajr",
+        "arabic_name": "الفجر",
+        "latin_name": "Al Fajr",
+        "literal": "Fajar",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 30
+    },
+    {
+        "_id": "61048c34fb7d052900dbd5d8",
+        "chapter_index": 90,
+        "chapter_id": "al-balad",
+        "arabic_name": "البلد",
+        "latin_name": "Al Balad",
+        "literal": "Negeri",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 20
+    },
+    {
+        "_id": "61048c4afb7d052900dbd5db",
+        "chapter_index": 91,
+        "chapter_id": "ash-shams",
+        "arabic_name": "الشمس",
+        "latin_name": "Ash Shams",
+        "literal": "Matahari",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 15
+    },
+    {
+        "_id": "61048ca3fb7d052900dbd5de",
+        "chapter_index": 92,
+        "chapter_id": "al-lail",
+        "arabic_name": "الليل",
+        "latin_name": "Al Lail",
+        "literal": "Malam",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 21
+    },
+    {
+        "_id": "61048d33fb7d052900dbd5e1",
+        "chapter_index": 93,
+        "chapter_id": "ad-duha",
+        "arabic_name": "الضحى",
+        "latin_name": "Aḍ Ḍuḥā",
+        "literal": "Waktu Dhuha",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 11
+    },
+    {
+        "_id": "61048d54fb7d052900dbd5e4",
+        "chapter_index": 94,
+        "chapter_id": "ash-sharh",
+        "arabic_name": "الشرح",
+        "latin_name": "Ash Sharḥ",
+        "literal": "Kelapangan",
+        "aliases": [
+            "Alam Nasyrah"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 8
+    },
+    {
+        "_id": "61048d68fb7d052900dbd5e7",
+        "chapter_index": 95,
+        "chapter_id": "at-tin",
+        "arabic_name": "التين",
+        "latin_name": "At Tīn",
+        "literal": "Buah Tin",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 8
+    },
+    {
+        "_id": "61048d9efb7d052900dbd5ea",
+        "chapter_index": 96,
+        "chapter_id": "al-alaq",
+        "arabic_name": "العلق",
+        "latin_name": "Al ‘Alaq",
+        "literal": "Segumpal Darah",
+        "aliases": [
+            "Iqra'",
+            "Al Qalam",
+            "Iqra' Bismi Rabbika"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 19
+    },
+    {
+        "_id": "61048dc1fb7d052900dbd5ed",
+        "chapter_index": 97,
+        "chapter_id": "al-qadr",
+        "arabic_name": "القدر",
+        "latin_name": "Al Qadr",
+        "literal": "Kemuliaan",
+        "aliases": [
+            "Inna Anzalnahu"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 5
+    },
+    {
+        "_id": "61048dd4fb7d052900dbd5f0",
+        "chapter_index": 98,
+        "chapter_id": "al-bayyinah",
+        "arabic_name": "البينة",
+        "latin_name": "Al Bayyinah",
+        "literal": "Pembuktian",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 1,
+        "total_verses": 8
+    },
+    {
+        "_id": "61048e2efb7d052900dbd5f3",
+        "chapter_index": 99,
+        "chapter_id": "al-zalzalah",
+        "arabic_name": "الزلزلة",
+        "latin_name": "Al Zalzalah",
+        "literal": "Kegoncangan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 1,
+        "total_verses": 8
+    },
+    {
+        "_id": "61048e5afb7d052900dbd5f6",
+        "chapter_index": 100,
+        "chapter_id": "al-adiyat",
+        "arabic_name": "العاديات",
+        "latin_name": "Al ‘Ādiyāt",
+        "literal": "Kuda Perang Yang Berlari Kencang",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 11
+    },
+    {
+        "_id": "61048e89fb7d052900dbd5f9",
+        "chapter_index": 101,
+        "chapter_id": "al-qariah",
+        "arabic_name": "القارعة",
+        "latin_name": "Al Qāri‘ah",
+        "literal": "Hari Kiamat",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 11
+    },
+    {
+        "_id": "61048eadfb7d052900dbd5ff",
+        "chapter_index": 102,
+        "chapter_id": "at-takasur",
+        "arabic_name": "التكاثر",
+        "latin_name": "At Takāṡur",
+        "literal": "Bermegah-Megahan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 8
+    },
+    {
+        "_id": "61048ecffb7d052900dbd602",
+        "chapter_index": 103,
+        "chapter_id": "al-asr",
+        "arabic_name": "العصر",
+        "latin_name": "Al ‘Aṣr",
+        "literal": "Masa",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 3
+    },
+    {
+        "_id": "61048ef6fb7d052900dbd609",
+        "chapter_index": 104,
+        "chapter_id": "al-humazah",
+        "arabic_name": "الهمزة",
+        "latin_name": "Al Humazah",
+        "literal": "Pengumpat",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 9
+    },
+    {
+        "_id": "61048f11fb7d052900dbd60c",
+        "chapter_index": 105,
+        "chapter_id": "al-fil",
+        "arabic_name": "الفيل",
+        "latin_name": "Al Fīl",
+        "literal": "Gajah",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 5
+    },
+    {
+        "_id": "61048f62fb7d052900dbd60f",
+        "chapter_index": 106,
+        "chapter_id": "quraish",
+        "arabic_name": "قريش",
+        "latin_name": "Quraish",
+        "literal": "Kaum Quraisy",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 4
+    },
+    {
+        "_id": "61048f8afb7d052900dbd612",
+        "chapter_index": 107,
+        "chapter_id": "al-maun",
+        "arabic_name": "الماعون",
+        "latin_name": "Al Mā‘ūn",
+        "literal": "Barang-Barang Yang Berguna",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 7
+    },
+    {
+        "_id": "61048fa6fb7d052900dbd615",
+        "chapter_index": 108,
+        "chapter_id": "al-kausar",
+        "arabic_name": "الكوثر",
+        "latin_name": "Al Kauṡar",
+        "literal": "Nikmat Yang Berlimpah",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 3
+    },
+    {
+        "_id": "61048fbffb7d052900dbd618",
+        "chapter_index": 109,
+        "chapter_id": "al-kafirun",
+        "arabic_name": "الكافرون",
+        "latin_name": "Al Kāfirūn",
+        "literal": "Orang-Orang Kafir",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 6
+    },
+    {
+        "_id": "61048fdbfb7d052900dbd61b",
+        "chapter_index": 110,
+        "chapter_id": "an-nasr",
+        "arabic_name": "النصر",
+        "latin_name": "An Naṣr",
+        "literal": "Pertolongan",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Madaniyah",
+        "total_rukus": 1,
+        "total_verses": 3
+    },
+    {
+        "_id": "61049156fb7d052900dbd61e",
+        "chapter_index": 111,
+        "chapter_id": "al-masad",
+        "arabic_name": "المسد",
+        "latin_name": "Al Masad",
+        "literal": "Sabut",
+        "aliases": [
+            "Al Lahab"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 5
+    },
+    {
+        "_id": "610491dbfb7d052900dbd621",
+        "chapter_index": 112,
+        "chapter_id": "al-ikhlas",
+        "arabic_name": "الإخلاص",
+        "latin_name": "Al Ikhlāṣ",
+        "literal": "Memurnikan Keesaan Allah",
+        "aliases": [
+            "Qul Huwallah",
+            "Nisbatur Rabbi",
+            "At Tafrid",
+            "At Tajrid",
+            "Al Wilayah",
+            "Al Ma'arifah",
+            "Al Jamal",
+            "Qasyqasy",
+            "Al Mudzakkirah",
+            "As Shamad",
+            "Al Amin"
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 4
+    },
+    {
+        "_id": "61049208fb7d052900dbd624",
+        "chapter_index": 113,
+        "chapter_id": "al-falaq",
+        "arabic_name": "الفلق",
+        "latin_name": "Al Falaq",
+        "literal": "Waktu Subuh",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 5
+    },
+    {
+        "_id": "61049241fb7d052900dbd627",
+        "chapter_index": 114,
+        "chapter_id": "an-nas",
+        "arabic_name": "الناس",
+        "latin_name": "An Nās",
+        "literal": "Manusia",
+        "aliases": [
+            ""
+        ],
+        "mysterious_letters": [
+            ""
+        ],
+        "avail": [
+            ""
+        ],
+        "opening": true,
+        "classification": "Makkiyah",
+        "total_rukus": 1,
+        "total_verses": 6
+    }
+]
